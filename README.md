@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web dev 🌐, ML/DL enthusiast 🤖. <br>Passionate about building cool projects with React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving into IOT 🤓 and ML/DL ⚡️. <br>Let’s build something awesome together! 🚀
+I’m a web dev 🌐, ML/DL enthusiast 🤖. <br>Passionate about building cool projects with React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving Clones of Well established platforms to further increase my skills 🤓 and Deep learning ⚡️. <br>Let’s build something awesome together! 🚀
 
 
 ## 🌐 Socials:
