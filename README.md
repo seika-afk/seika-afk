@@ -4,6 +4,7 @@ I’m a  ML-DL developer 🌐, WebDev enthusiast . <br>Passionate about building
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://github.com/seika-afk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-thakur-704779349/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetc)
 
 
 # 💻 Tech Stack:
