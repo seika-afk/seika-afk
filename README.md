@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m a web dev 🌐, ML/DL enthusiast 🤖. <br>Passionate about building cool projects with React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving into Clones of Well established platforms to further increase my skills 🤓 and Deep learning ⚡️. <br>Let’s build something awesome together! 🚀
-
+I’m a  ML-DL developer 🌐, WebDev enthusiast . <br>Passionate about building cool projects with Next,React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving into Clones of Well established platforms to further increase my skills 🤓 ⚡️. <br>Let’s build something awesome together! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://github.com/seika-afk/) [![LinkedIn](https://www.linkedin.com/in/gagan-thakur-704779349/) 
