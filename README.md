@@ -1,10 +1,12 @@
 # 💫 About Me:
 I’m a  Software Developer with  Hands on experience on Web Dev /Backend and ML-MLOPS And Generative AI. <br>Passionate about building cool projects with Next,React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving into Clones of Well established platforms to further increase my skills 🤓 ⚡️.<br>Let’s build something awesome together! 🚀
-
+<br>
 Currently working On : 
+<br>
 Go : emoturl
+<br>
 Rust : Board_tracker 
-
+<br>
 WebDev : Multi Channel Communication.
 
 
