@@ -1,6 +1,13 @@
 # 💫 About Me:
 I’m a  Software Developer with  Hands on experience on Web Dev /Backend and ML-MLOPS And Generative AI. <br>Passionate about building cool projects with Next,React ⚛️, Python 🐍, and contributing to open-source 🌍.<br>Currently diving into Clones of Well established platforms to further increase my skills 🤓 ⚡️.<br>Let’s build something awesome together! 🚀
 
+Currently working On : 
+Go : emoturl
+Rust : Board_tracker 
+
+WebDev : Multi Channel Communication.
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://github.com/seika-afk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-thakur-704779349/)
