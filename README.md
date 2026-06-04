@@ -3,11 +3,12 @@ I’m a  Software Developer with  Hands on experience on Web Dev /Backend and ML
 <br>
 Currently working On : 
 <br>
-Go : emoturl
+Go : Symphony ( Minimal ,Persistence free Chat Website)
 <br>
-Rust : Board_tracker 
+Rust : Opheous ( Collaborative Music Player)
 <br>
-WebDev : Multi Channel Communication.
+WebDev : Pairleet ( Solving DSA in pairs)
+
 
 
 ## 🌐 Socials:
