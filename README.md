@@ -1,6 +1,8 @@
 <div align="center">
 
-<br>
+<img src="./assets/banner-dither.png" width="100%" />
+
+<br><br>
 
 <sub>SOFTWARE DEVELOPER</sub>
 
@@ -8,13 +10,11 @@
 
 <sub>writing systems, not just code</sub>
 
-<br>
-
 </div>
 
 <br>
 
----
+<img src="./assets/divider-dither.png" width="100%" height="4" />
 
 <br>
 
@@ -29,6 +29,10 @@ I work across full-stack, backend, and ML/MLOps + generative AI — but the part
 &nbsp;&nbsp;**security** — bug bounty hunting, most recently an IDOR vulnerability
 <br>
 &nbsp;&nbsp;**startups** — pitching features to early-stage teams
+
+<br>
+
+<img src="./assets/divider-dither.png" width="100%" height="4" />
 
 <br>
 
@@ -68,7 +72,7 @@ I work across full-stack, backend, and ML/MLOps + generative AI — but the part
 
 <br>
 
----
+<img src="./assets/divider-dither.png" width="100%" height="4" />
 
 <br>
 
@@ -88,19 +92,19 @@ I work across full-stack, backend, and ML/MLOps + generative AI — but the part
 
 <br>
 
----
+<img src="./assets/divider-dither.png" width="100%" height="4" />
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seika-afk&theme=dark&hide_border=true&bg_color=00000000&title_color=B7ADCF&icon_color=B7ADCF&text_color=999999&include_all_commits=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seika-afk&theme=dark&hide_border=true&bg_color=00000000&title_color=B7ADCF&text_color=999999&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=seika-afk&theme=dark&hide_border=true&bg_color=00000000&title_color=2E5FA3&icon_color=2E5FA3&text_color=888888&include_all_commits=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seika-afk&theme=dark&hide_border=true&bg_color=00000000&title_color=2E5FA3&text_color=888888&layout=compact" height="165"/>
 
 </div>
 
 <br>
 
----
+<img src="./assets/divider-dither.png" width="100%" height="4" />
 
 <br>
 
