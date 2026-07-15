@@ -7,11 +7,10 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-I work across full-stack, backend, and ML/MLOps + generative AI — but the part
+I work across full-stack, backend, and ML/MLOps + generative AI ,Though  the part
 I actually care about is what's underneath: data flow, failure modes, the
 plumbing nobody sees until it breaks. 
-I like Reverse Engineering  and freelance on work where I get to own the whole shape of a
-thing, not just a slice of it.
+I like Reverse Engineering  and freelance and bunch of cool stuff
 
 ```
 ────────────────────────────────────────────────────────────────────────────
