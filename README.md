@@ -50,6 +50,7 @@ tools       Git · Neovim · Vercel · Figma
 linkedin    linkedin.com/in/gagan-thakur-704779349
 leetcode    https://leetcode.com/u/XYGt4jioRg/
 X           https://x.com/srrw2s
+Portfolio   https://gagan-9vo.pages.dev/
 ```
 
 ```
