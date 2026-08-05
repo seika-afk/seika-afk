@@ -20,7 +20,7 @@ I like Reverse Engineering  and freelance and bunch of cool stuff
 
 ```
 freelance -  delivering client work end to end, from architecture through ship
-security  -  bug bounty hunting — most recently an IDOR vulnerability
+// security  -  bug bounty hunting — most recently an IDOR vulnerability
 startups  -  pitching features to early-stage teams
 ```
 
