@@ -19,7 +19,7 @@ I like Reverse Engineering  and freelance and bunch of cool stuff
 ### currently
 
 ```
-// currently busy with Leetcode till 20th october. See you soon
+currently busy with Leetcode till 20th october. See you soon
 // freelance -  delivering client work end to end, from architecture through ship
 // security  -  bug bounty hunting — most recently an IDOR vulnerability
 // startups  -  pitching features to early-stage teams
